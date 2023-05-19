@@ -3,9 +3,9 @@ AB test analysis on marketing data. we want to see if the ad campaign is success
 
 the data was gotten from kaggle. and i wrote the notebook on kaggle.
 
-for sanity check; i reduced the ad data rows to the same lenght as psa. and got the same results as using all the ad data rows.
+for sanity check; i reduced the ad data rows to the lenght off psa. the difference in their conversions was still statistically significant.
 
-I performed hypothesis tests on their conversion rates to verify it's statistical significance.
+I performed hypothesis tests on their conversion rates to verify their statistical significance.
 
 After confirming its significance, i explored the data to find the days and hours with the most conversions.
 
